@@ -2252,21 +2252,109 @@
       "words" : [ {
         "name" : "Eu vejo gente morta (Sexto Sentido)"
       }, {
-        "name" : "A Força esteja com você(Guerra nas estrelas)"
+        "name" : "Que a força esteja com você (Star Wars)"
       }, {
         "name" : "Eu voltarei (Exterminador do Futuro)"
       }, {
-        "name" : "Ganância… é bom (Wall Street)"
+        "name" : "Ganância… é bom"
       }, {
-        "name" : "Para mim, você é perfeita.(Simplesmente Amor)"
+        "name" : "Para mim, você é perfeita. (Simplesmente Amor)"
       }, {
         "name" : "Grandes poderes trazem grandes responsabilidades (Homem Aranha)"
       }, {
-        "name" : "Mantenha os seus amigos por perto, e os inimigos ainda mais perto (Poderoso Chefão)"
+        "name" : "Mantenha os seus amigos por perto, e os inimigos ainda mais perto (Poderoso chefão)"
       }, {
         "name" : "Eu sou o seu pai (Star Wars)"
       }, {
-        "name" : "Por que está tão sério? (Batman)"
+        "name" : "Você me deu uma eternidade dentro dos nossos dias numerados (A Culpa é das Estrelas)"
+      }, {
+        "name" : "Odeio não conseguir te odiar por mais que eu tente ou por menos que você faça (10 Coisas que eu odeio em você)"
+      }, {
+        "name" : "A vida é como uma caixa de chocolates. (Forrest Gump)"
+      }, {
+        "name" : "Não existe amor sem compaixão. (Um amor para recordar)"
+      }, {
+        "name" : "Você foi a minha vida inteira, mas eu fui só um capítulo da sua. (PS. Eu te amo)"
+      }, {
+        "name" : "A coisa mais importante que você irá aprender é amar e ser amado em troca. (Moulin Rouge)"
+      }, {
+        "name" : "E os medos que uma vez me controlaram. Não chegam nem perto de mim. (Frozen)"
+      }, {
+        "name" : "A melhor maneira de esquecer uma mulher é transformá-la em literatura. (500 dias com ela)"
+      }, {
+        "name" : "Você me salvou de todas as maneiras que alguém pode ser salvo.(Titanic)"
+      }, {
+        "name" : "Ou você morre herói, ou vive o suficiente para se tornar o vilão. (Batman)"
+      }, {
+        "name" : "Carpe diem. Aproveitem o dia de hoje, rapazes. Tornem as suas vidas extraordinárias. (A Sociedade dos Poetas Mortos)"
+      }, {
+        "name" : "O homem que não reconhece o seu passado não terá futuro! (A Múmia)"
+      }, {
+        "name" : "Sem o amargo, o doce não seria tão doce (Vanilla Sky)"
+      }, {
+        "name" : "Às vezes a ideia mais simples faz a maior diferença (Corrente do Bem)"
+      }, {
+        "name" : "Não são nossos talentos que mostram aquilo que realmente somos, mas sim as nossas escolhas (Harry Potter)"
+      }, {
+        "name" : "A jornada de mil quilômetros começa com o primeiro passo (O Rei Leão)"
+      }, {
+        "name" : "A única pessoa em seu caminho é você mesmo (Cisne Negro)"
+      }, {
+        "name" : "O que fazemos na vida ecoa na eternidade. (Gladiador)"
+      }, {
+        "name" : "Se você não sabe onde quer ir, qualquer caminho serve (Alice no País das Maravilhas)"
+      }, {
+        "name" : "Vamos colocar um sorriso nesse rosto (Batman)"
+      }, {
+        "name" : "Meu nome é Bond, James Bond (007)"
+      }, {
+        "name" : "Eu sou o rei do mundo! (Titanic)"
+      }, {
+        "name" : "Hasta la vista, Baby (Exterminador do futuro)"
+      }, {
+        "name" : "Dadinho é o caralh*, meu nome é Zé Pequeno (Cidade de Deus)"
+      }, {
+        "name" : "Eu vou fazer uma proposta que ele não poderá recusar (O Poderoso Chefão)"
+      }, {
+        "name" : "ET telefone casa (ET)"
+      }, {
+        "name" : "Eles podem tirar nossas vidas, mas nunca poderão tirar nossa liberdade (Coração Valente)"
+      }, {
+        "name" : "Nós sempre teremos Paris (Casablanca)"
+      }, {
+        "name" : "Houston, nós temos um problema (Apollo)"
+      }, {
+        "name" : "Mim Tarzan, você Jane (Tarzan)"
+      }, {
+        "name" : "Slot quer chocolate (Os Goonies)"
+      }, {
+        "name" : "Corra Forest, corra! (Forest Gump)"
+      }, {
+        "name" : "Wilsoooooonnn (O Náufrago)"
+      }, {
+        "name" : "Não há lugar como nosso lar (O Mágico de OZ)"
+      }, {
+        "name" : "Meu precioso (Senhor dos Anéis)"
+      }, {
+        "name" : "Você está falando comigo? (Taxi Driver)"
+      }, {
+        "name" : "Nós vamos precisar de um barco maior (Tubarão)"
+      }, {
+        "name" : "Eu sinto a necessidade, a necessidade de velocidade (Top Gun)"
+      }, {
+        "name" : "Põe na conta do papa (Tropa de Elite)"
+      }, {
+        "name" : "Elementar, meu caro Watson (Sherlock Holmes)"
+      }, {
+        "name" : "Adriaaaaaaan (Rocky Balboa)"
+      }, {
+        "name" : "Eu amo o cheiro de nepalm pela manhã (Apocalypse Now)"
+      }, {
+        "name" : "Yipi-ki-yay, motherfucker! (Duro de Matar)"
+      }, {
+        "name" : "Que dia excelente para um exorcismo (O Exorcista)"
+      }, {
+        "name" : "Por que está tão sério?"
       } ]
     },
     "romance" : {
