@@ -1,0 +1,2679 @@
+{
+  "ads" : {
+    "gain" : [ {
+      "code" : "ca-app-pub-1473844720137912/7900677142",
+      "name" : "adivinhaGainCategory_01"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/5377602929",
+      "name" : "adivinhaGainCategory_02"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/8556593747",
+      "name" : "adivinhaGainCategory_03"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/8718932196",
+      "name" : "adivinhaGainCategory_04"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/1845552024",
+      "name" : "adivinhaGainCategory_05"
+    } ],
+    "list" : [ {
+      "code" : "ca-app-pub-1473844720137912/6518597730",
+      "name" : "adivinhaAdsList_01"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/1991185397",
+      "name" : "adivinhaAdsList_02"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/9321567424",
+      "name" : "adivinhaAdsList_03"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/3537907644",
+      "name" : "adivinhaAdsList_04"
+    }, {
+      "code" : "ca-app-pub-1473844720137912/4013400428",
+      "name" : "adivinhaAdsList_05"
+    } ]
+  },
+  "categories" : {
+    "action" : {
+      "color" : "EC553B",
+      "icon" : "imagem",
+      "id" : 1,
+      "inApp" : "Nulo",
+      "name" : "Ação",
+      "public" : true,
+      "words" : [ {
+        "name" : "Abençoar"
+      }, {
+        "name" : "Abotoar"
+      }, {
+        "name" : "Abraçar"
+      }, {
+        "name" : "Abrir A Porta"
+      }, {
+        "name" : "Adoecer"
+      }, {
+        "name" : "Agarrar"
+      }, {
+        "name" : "Agredir"
+      }, {
+        "name" : "Almoçar"
+      }, {
+        "name" : "Andar De Patinete"
+      }, {
+        "name" : "Andar De Patins"
+      }, {
+        "name" : "Andar De Skate"
+      }, {
+        "name" : "Apaixonar"
+      }, {
+        "name" : "Aplaudir"
+      }, {
+        "name" : "Apressar"
+      }, {
+        "name" : "Assistir Uma Opera"
+      }, {
+        "name" : "Atacar Um Urso"
+      }, {
+        "name" : "Atirar Com Arco E Flecha"
+      }, {
+        "name" : "Balançar"
+      }, {
+        "name" : "Barbear"
+      }, {
+        "name" : "Bater Na Porta"
+      }, {
+        "name" : "Beijar Na Boca"
+      }, {
+        "name" : "Buzinar"
+      }, {
+        "name" : "Caçar"
+      }, {
+        "name" : "Calçar"
+      }, {
+        "name" : "Carregar"
+      }, {
+        "name" : "Cavalgar"
+      }, {
+        "name" : "Chorar"
+      }, {
+        "name" : "Chutar"
+      }, {
+        "name" : "Cochichar"
+      }, {
+        "name" : "Colocar O Cinto"
+      }, {
+        "name" : "Consertar Um Carro"
+      }, {
+        "name" : "Contar"
+      }, {
+        "name" : "Contruir"
+      }, {
+        "name" : "Cortar Cabelo"
+      }, {
+        "name" : "Cortar Madeira"
+      }, {
+        "name" : "Costurar"
+      }, {
+        "name" : "Cozinhar"
+      }, {
+        "name" : "Crescer"
+      }, {
+        "name" : "Cumprimentar"
+      }, {
+        "name" : "Dançar A Dança Do Robô"
+      }, {
+        "name" : "Dançar Balé"
+      }, {
+        "name" : "Descansar"
+      }, {
+        "name" : "Deslizar"
+      }, {
+        "name" : "Digitar"
+      }, {
+        "name" : "Discutir"
+      }, {
+        "name" : "Dormir De Conchinha"
+      }, {
+        "name" : "Encher"
+      }, {
+        "name" : "Engasgar"
+      }, {
+        "name" : "Enlouquecer"
+      }, {
+        "name" : "Ensinar"
+      }, {
+        "name" : "Enxaguar"
+      }, {
+        "name" : "Enxugar"
+      }, {
+        "name" : "Escovar"
+      }, {
+        "name" : "Escutar Música"
+      }, {
+        "name" : "Espionar"
+      }, {
+        "name" : "Espirrar"
+      }, {
+        "name" : "Esquiar"
+      }, {
+        "name" : "Examinar"
+      }, {
+        "name" : "Experimentar"
+      }, {
+        "name" : "Explodir"
+      }, {
+        "name" : "Extravasar"
+      }, {
+        "name" : "Fazer Pipoca"
+      }, {
+        "name" : "Fazer Um Sanduiche"
+      }, {
+        "name" : "Flagrar"
+      }, {
+        "name" : "Fugir"
+      }, {
+        "name" : "Gargalhar"
+      }, {
+        "name" : "Hipnotizar"
+      }, {
+        "name" : "Injetar"
+      }, {
+        "name" : "Jogar Dado"
+      }, {
+        "name" : "Jogar Dardo"
+      }, {
+        "name" : "Jogar Sinuca"
+      }, {
+        "name" : "Jogar Truco"
+      }, {
+        "name" : "Jogar Xadrez"
+      }, {
+        "name" : "Ler Uma Revista"
+      }, {
+        "name" : "Levar Um Tiro"
+      }, {
+        "name" : "Limpar"
+      }, {
+        "name" : "Lutar Karate"
+      }, {
+        "name" : "Machucar"
+      }, {
+        "name" : "Maquiar"
+      }, {
+        "name" : "Marcar Um Touchdown"
+      }, {
+        "name" : "Medir A Pressão"
+      }, {
+        "name" : "Mexer"
+      }, {
+        "name" : "Navegar"
+      }, {
+        "name" : "Paralisar"
+      }, {
+        "name" : "Pesquisar"
+      }, {
+        "name" : "Pichar"
+      }, {
+        "name" : "Pintar"
+      }, {
+        "name" : "Pisar"
+      }, {
+        "name" : "Proteger"
+      }, {
+        "name" : "Pular De Bungeejump"
+      }, {
+        "name" : "Remar"
+      }, {
+        "name" : "Ressusitar"
+      }, {
+        "name" : "Roubar"
+      }, {
+        "name" : "Sentar"
+      }, {
+        "name" : "Sentir Ressaca"
+      }, {
+        "name" : "Suar"
+      }, {
+        "name" : "Subir Escada"
+      }, {
+        "name" : "Surfar"
+      }, {
+        "name" : "Tocar Um Sino"
+      }, {
+        "name" : "Tocar Violino"
+      }, {
+        "name" : "Ultrapassar"
+      }, {
+        "name" : "Viajar"
+      }, {
+        "name" : "Visitar"
+      }, {
+        "name" : "Voltar"
+      }, {
+        "name" : "Vomitar"
+      } ]
+    },
+    "animals" : {
+      "color" : "F49A98",
+      "id" : 2,
+      "inApp" : "Nulo",
+      "name" : "Animais",
+      "public" : true,
+      "words" : [ {
+        "name" : "Abelha"
+      }, {
+        "name" : "Águia"
+      }, {
+        "name" : "Alce"
+      }, {
+        "name" : "Alyx Vance"
+      }, {
+        "name" : "Anta"
+      }, {
+        "name" : "Aranha"
+      }, {
+        "name" : "Avestruz"
+      }, {
+        "name" : "Babuíno"
+      }, {
+        "name" : "Baleia"
+      }, {
+        "name" : "Barata"
+      }, {
+        "name" : "Boi"
+      }, {
+        "name" : "Borboleta"
+      }, {
+        "name" : "Boto"
+      }, {
+        "name" : "Burro"
+      }, {
+        "name" : "Cabra"
+      }, {
+        "name" : "Cachorro"
+      }, {
+        "name" : "Camarão"
+      }, {
+        "name" : "Camelo"
+      }, {
+        "name" : "Canguru"
+      }, {
+        "name" : "Carangueijo"
+      }, {
+        "name" : "Carrapato"
+      }, {
+        "name" : "Castor"
+      }, {
+        "name" : "Cavalo"
+      }, {
+        "name" : "Chimpanzé"
+      }, {
+        "name" : "Cisne"
+      }, {
+        "name" : "Cobra"
+      }, {
+        "name" : "Codorna"
+      }, {
+        "name" : "Coelho"
+      }, {
+        "name" : "Coiote"
+      }, {
+        "name" : "Coruja"
+      }, {
+        "name" : "Dragão De Komodo"
+      }, {
+        "name" : "Dromedario"
+      }, {
+        "name" : "Elefante"
+      }, {
+        "name" : "Escorpião"
+      }, {
+        "name" : "Esquilo"
+      }, {
+        "name" : "Estrela Do Mar"
+      }, {
+        "name" : "Faisão"
+      }, {
+        "name" : "Falcão"
+      }, {
+        "name" : "Foca"
+      }, {
+        "name" : "Formiga"
+      }, {
+        "name" : "Gambá"
+      }, {
+        "name" : "Garça"
+      }, {
+        "name" : "Gato"
+      }, {
+        "name" : "Gaivota"
+      }, {
+        "name" : "Gazela"
+      }, {
+        "name" : "Girafa"
+      }, {
+        "name" : "Golfinho"
+      }, {
+        "name" : "Gorila"
+      }, {
+        "name" : "Grilo"
+      }, {
+        "name" : "Hamster"
+      }, {
+        "name" : "Hiena"
+      }, {
+        "name" : "Hipopótamo"
+      }, {
+        "name" : "Iguana"
+      }, {
+        "name" : "Jacaré"
+      }, {
+        "name" : "Jaguatirica"
+      }, {
+        "name" : "Jegue"
+      }, {
+        "name" : "Jumento"
+      }, {
+        "name" : "Lagarto"
+      }, {
+        "name" : "Lagosta"
+      }, {
+        "name" : "Leão"
+      }, {
+        "name" : "Lhama"
+      }, {
+        "name" : "Lobo"
+      }, {
+        "name" : "Lontra"
+      }, {
+        "name" : "Lula"
+      }, {
+        "name" : "Macaco"
+      }, {
+        "name" : "Minhoca"
+      }, {
+        "name" : "Morcego"
+      }, {
+        "name" : "Morsa"
+      }, {
+        "name" : "Mosquito"
+      }, {
+        "name" : "Onça"
+      }, {
+        "name" : "Ornitorrinco"
+      }, {
+        "name" : "Ovelha"
+      }, {
+        "name" : "Papagaio"
+      }, {
+        "name" : "Pato"
+      }, {
+        "name" : "Pavão"
+      }, {
+        "name" : "Peixe-Espada"
+      }, {
+        "name" : "Peixe-Palhaço"
+      }, {
+        "name" : "Pelicano"
+      }, {
+        "name" : "Peru"
+      }, {
+        "name" : "Piranha"
+      }, {
+        "name" : "Pirarucu"
+      }, {
+        "name" : "Polvo"
+      }, {
+        "name" : "Pombo"
+      }, {
+        "name" : "Porco"
+      }, {
+        "name" : "Porco Espinho"
+      }, {
+        "name" : "Raia"
+      }, {
+        "name" : "Raposa"
+      }, {
+        "name" : "Rato"
+      }, {
+        "name" : "Rinoceronte"
+      }, {
+        "name" : "Salamandra"
+      }, {
+        "name" : "Tartaruga"
+      }, {
+        "name" : "Tatu"
+      }, {
+        "name" : "Tigre"
+      }, {
+        "name" : "Toupeira"
+      }, {
+        "name" : "Tubarão"
+      }, {
+        "name" : "Tucano"
+      }, {
+        "name" : "Veado"
+      }, {
+        "name" : "Velociraptor"
+      } ]
+    },
+    "artist" : {
+      "color" : "F1B037",
+      "id" : 3,
+      "inApp" : "Nulo",
+      "name" : "Artistas",
+      "public" : true,
+      "words" : [ {
+        "name" : "Leonardo DiCaprio"
+      }, {
+        "name" : "Didi"
+      }, {
+        "name" : "Dedé"
+      }, {
+        "name" : "Zacarias"
+      }, {
+        "name" : "Leandro Hassum"
+      }, {
+        "name" : "Marcelo Adnet"
+      }, {
+        "name" : "Rodrigo Santoro"
+      }, {
+        "name" : "Alice Braga"
+      }, {
+        "name" : "Sônia Braga"
+      }, {
+        "name" : "Lázaro Ramos"
+      }, {
+        "name" : "Juliana Paes"
+      }, {
+        "name" : "Fernanda Montenegro"
+      }, {
+        "name" : "Susana Vieira"
+      }, {
+        "name" : "Cauã Reymond"
+      }, {
+        "name" : "Bruno Gagliasso"
+      }, {
+        "name" : "Adriana Esteves"
+      }, {
+        "name" : "José Mayer"
+      }, {
+        "name" : "Mariana Ximenes"
+      }, {
+        "name" : "Whindersson Nunes"
+      }, {
+        "name" : "Fernanda Lima"
+      }, {
+        "name" : "Antônio Fagundes"
+      }, {
+        "name" : "Luana Piovani"
+      }, {
+        "name" : "Ana Hickmann"
+      }, {
+        "name" : "Taís Araujo"
+      }, {
+        "name" : "Milton Gonçalves"
+      }, {
+        "name" : "Tom Cruise"
+      }, {
+        "name" : "Tom Hanks"
+      }, {
+        "name" : "Johnny Depp"
+      }, {
+        "name" : "Charlie Chaplin"
+      }, {
+        "name" : "Dwayne Johnson"
+      }, {
+        "name" : "Al Pacino"
+      }, {
+        "name" : "Christian Bale"
+      }, {
+        "name" : "Robert De Niro"
+      }, {
+        "name" : "Jack Nicholson"
+      }, {
+        "name" : "Clint Eastwood"
+      }, {
+        "name" : "Marlon Brando"
+      }, {
+        "name" : "Denzel Washington"
+      }, {
+        "name" : "Laurance Olivier"
+      }, {
+        "name" : "Morgan Freeman"
+      }, {
+        "name" : "Samuel L. Jackson"
+      }, {
+        "name" : "George Clooney"
+      }, {
+        "name" : "Ryan Gosling"
+      }, {
+        "name" : "Brad Pitt"
+      }, {
+        "name" : "Chris Hemsworth"
+      }, {
+        "name" : "Vin Diesel"
+      }, {
+        "name" : "Adam Sandler"
+      }, {
+        "name" : "Liam Neeson"
+      }, {
+        "name" : "Keanu Reeves"
+      }, {
+        "name" : "Wagner Moura"
+      }, {
+        "name" : "Harrison Ford"
+      }, {
+        "name" : "Jim Carrey"
+      }, {
+        "name" : "Michael Douglas"
+      }, {
+        "name" : "Scarlett Johansson"
+      }, {
+        "name" : "Angelina Jolie"
+      }, {
+        "name" : "Marilyn Monroe"
+      }, {
+        "name" : "Charlize Theron"
+      }, {
+        "name" : "Jennifer Lawrence"
+      }, {
+        "name" : "Audrey Hapburn"
+      }, {
+        "name" : "Sandra Bullock"
+      }, {
+        "name" : "Cláudia Raia"
+      }, {
+        "name" : "Bruna Marquezine"
+      }, {
+        "name" : "Robert Downey Jr"
+      }, {
+        "name" : "Sandra Bullock"
+      }, {
+        "name" : "Steve Carell"
+      }, {
+        "name" : "Tina Fey"
+      }, {
+        "name" : "Regina Casé"
+      }, {
+        "name" : "Malu Galli"
+      }, {
+        "name" : "Milhem Cortaz"
+      }, {
+        "name" : "Isis Valverde"
+      }, {
+        "name" : "Murilo Benício"
+      }, {
+        "name" : "Vladimir Brichta"
+      }, {
+        "name" : "Chay Suede"
+      }, {
+        "name" : "Nanda Costa"
+      }, {
+        "name" : "Verena"
+      }, {
+        "name" : "Thiago Martins"
+      }, {
+        "name" : "Juliano Cazarré"
+      }, {
+        "name" : "Letícia Lima"
+      }, {
+        "name" : "Irandhir Santos"
+      }, {
+        "name" : "Camila Márdila"
+      }, {
+        "name" : "Débora Falabela"
+      }, {
+        "name" : "Marcello Novaes"
+      }, {
+        "name" : "Nathalia Dill"
+      }, {
+        "name" : "Heloísa Périssé"
+      }, {
+        "name" : "Débora Nascimento"
+      }, {
+        "name" : "Alexandre Borges"
+      }, {
+        "name" : "Vera Holtz"
+      }, {
+        "name" : "José de Abreu"
+      }, {
+        "name" : "Otávio Augusto"
+      }, {
+        "name" : "Cacay Protássio"
+      }, {
+        "name" : "Carolina Ferraz"
+      }, {
+        "name" : "Marcos Caruso"
+      }, {
+        "name" : "Jackie Chan"
+      }, {
+        "name" : "Bradley Cooper"
+      }, {
+        "name" : "Chris Evans"
+      }, {
+        "name" : "Paul Rudd"
+      }, {
+        "name" : "Carolina Dieckmann"
+      }, {
+        "name" : "Glória Pires"
+      }, {
+        "name" : "Reynaldo Gianecchini"
+      }, {
+        "name" : "Taís Araujo"
+      },{
+        "name" : "Will Smith"
+      } ]
+    },
+    "brands" : {
+      "color" : "AF4431",
+      "id" : 4,
+      "inApp" : "Marcas",
+      "name" : "Marcas",
+      "public" : false,
+      "token" : 910421256,
+      "words" : [ {
+        "name" : "Açaí Frooty"
+      }, {
+        "name" : "Adidas"
+      }, {
+        "name" : "Adria"
+      }, {
+        "name" : "Alpaca"
+      }, {
+        "name" : "Ambev"
+      }, {
+        "name" : "Amil"
+      }, {
+        "name" : "Apple"
+      }, {
+        "name" : "Bmw"
+      }, {
+        "name" : "Bobs"
+      }, {
+        "name" : "Bohemia"
+      }, {
+        "name" : "Caixa"
+      }, {
+        "name" : "Casa Do Pão De Gueijo"
+      }, {
+        "name" : "Casas Bahia"
+      }, {
+        "name" : "Cielo"
+      }, {
+        "name" : "Coca-Cola"
+      }, {
+        "name" : "Cvc"
+      }, {
+        "name" : "Drogasil"
+      }, {
+        "name" : "Embratel"
+      }, {
+        "name" : "Extra"
+      }, {
+        "name" : "Ferrari"
+      }, {
+        "name" : "Fiat"
+      }, {
+        "name" : "Fisk"
+      }, {
+        "name" : "Friboi"
+      }, {
+        "name" : "Gap"
+      }, {
+        "name" : "Garoto"
+      }, {
+        "name" : "Gilette"
+      }, {
+        "name" : "Globo"
+      }, {
+        "name" : "Google"
+      }, {
+        "name" : "Guarana Antartica"
+      }, {
+        "name" : "Habibs"
+      }, {
+        "name" : "Halls"
+      }, {
+        "name" : "Havaianas"
+      }, {
+        "name" : "Hering"
+      }, {
+        "name" : "Hollister"
+      }, {
+        "name" : "Hp"
+      }, {
+        "name" : "Ibm"
+      }, {
+        "name" : "Intel"
+      }, {
+        "name" : "Ipiranga"
+      }, {
+        "name" : "Itaipava"
+      }, {
+        "name" : "Itau"
+      }, {
+        "name" : "Kellogs"
+      }, {
+        "name" : "Kia"
+      }, {
+        "name" : "Kibon"
+      }, {
+        "name" : "Kinder"
+      }, {
+        "name" : "Lacoste"
+      }, {
+        "name" : "Localiza"
+      }, {
+        "name" : "Locaweb"
+      }, {
+        "name" : "Lojas Americanas"
+      }, {
+        "name" : "Loreal"
+      }, {
+        "name" : "Magazineluiza"
+      }, {
+        "name" : "Marisa"
+      }, {
+        "name" : "Mercado Livre"
+      }, {
+        "name" : "Mercedes"
+      }, {
+        "name" : "Microsoft"
+      }, {
+        "name" : "Multiplus"
+      }, {
+        "name" : "Natura"
+      }, {
+        "name" : "Nemovies"
+      }, {
+        "name" : "Nestle"
+      }, {
+        "name" : "Net"
+      }, {
+        "name" : "Netflix"
+      }, {
+        "name" : "Nike"
+      }, {
+        "name" : "Ogx"
+      }, {
+        "name" : "Oi"
+      }, {
+        "name" : "Oracle"
+      }, {
+        "name" : "Pão De Açucar"
+      }, {
+        "name" : "Pbkids"
+      }, {
+        "name" : "Pegeot"
+      }, {
+        "name" : "Pepsi"
+      }, {
+        "name" : "Pepsico"
+      }, {
+        "name" : "Perdigão"
+      }, {
+        "name" : "Petrobras"
+      }, {
+        "name" : "Polo"
+      }, {
+        "name" : "Pontofrio"
+      }, {
+        "name" : "Porto Seguro"
+      }, {
+        "name" : "Puma"
+      }, {
+        "name" : "Red Bull"
+      }, {
+        "name" : "Renner"
+      }, {
+        "name" : "Ricardo Eletro"
+      }, {
+        "name" : "Sabin"
+      }, {
+        "name" : "Sadia"
+      }, {
+        "name" : "Samsung"
+      }, {
+        "name" : "Seara"
+      }, {
+        "name" : "Shoptime"
+      }, {
+        "name" : "Skol"
+      }, {
+        "name" : "Spoleto"
+      }, {
+        "name" : "Submarino"
+      }, {
+        "name" : "Tam"
+      }, {
+        "name" : "Tommy Hilfiger"
+      }, {
+        "name" : "Toyota"
+      }, {
+        "name" : "Unilever"
+      }, {
+        "name" : "Vale"
+      }, {
+        "name" : "Vivara"
+      } ]
+    },
+    "celebrities" : {
+      "color" : "21ADAD",
+      "id" : 5,
+      "inApp" : "Celebridades",
+      "name" : "Celebridades",
+      "public" : false,
+      "token" : 910419492,
+      "words" : [ {
+        "name" : "James Cameron"
+      }, {
+        "name" : "Gisele Bündchen"
+      }, {
+        "name" : "Demi Lovato"
+      }, {
+        "name" : "Donald Trump"
+      }, {
+        "name" : "Alok"
+      }, {
+        "name" : "Black Eyed Pead"
+      }, {
+        "name" : "Charlie Brown Jr"
+      }, {
+        "name" : "Gusttavo Lima"
+      }, {
+        "name" : "Lebron James"
+      }, {
+        "name" : "Jason Mraz"
+      }, {
+        "name" : "Leonardo DiCaprio"
+      }, {
+        "name" : "Dwight Howard"
+      }, {
+        "name" : "Aline Barros"
+      }, {
+        "name" : "Julia Roberts"
+      }, {
+        "name" : "Camila Cabello"
+      }, {
+        "name" : "Billie Eilish"
+      }, {
+        "name" : "Avril Lavigne"
+      }, {
+        "name" : "Adam Levine"
+      }, {
+        "name" : "Justin Bieber"
+      }, {
+        "name" : "Courtney Cox"
+      }, {
+        "name" : "Peyton Manning"
+      }, {
+        "name" : "Jay Leno"
+      }, {
+        "name" : "Luan Santana"
+      }, {
+        "name" : "Cristiano Ronaldo"
+      }, {
+        "name" : "Bon Jovi"
+      }, {
+        "name" : "Kanye West"
+      }, {
+        "name" : "Bruno e Marrone"
+      }, {
+        "name" : "Jennifer Aniston"
+      }, {
+        "name" : "Jerry Seinfeld"
+      }, {
+        "name" : "Ludmilla"
+      }, {
+        "name" : "Maria Sharapova"
+      }, {
+        "name" : "Marília Mendonça"
+      }, {
+        "name" : "Ben Stiller"
+      }, {
+        "name" : "Jennifer Lopez"
+      }, {
+        "name" : "Elton John"
+      }, {
+        "name" : "John Legend"
+      }, {
+        "name" : "Adele"
+      }, {
+        "name" : "Mark Wahlberg"
+      }, {
+        "name" : "Matheys e Kauan"
+      }, {
+        "name" : "Heidi Klum"
+      }, {
+        "name" : "Caetano Veloso"
+      }, {
+        "name" : "Henrique e Juliano"
+      }, {
+        "name" : "David Beckham"
+      }, {
+        "name" : "James Patterson"
+      }, {
+        "name" : "Michael Jackson"
+      }, {
+        "name" : "Ellen DeGeneres"
+      }, {
+        "name" : "Kary Perry"
+      }, {
+        "name" : "Ariana Grande"
+      }, {
+        "name" : "David Letterman"
+      }, {
+        "name" : "Elvis Presley"
+      }, {
+        "name" : "Angelina Jolie"
+      }, {
+        "name" : "John Mayer"
+      }, {
+        "name" : "Kobe Bryant"
+      }, {
+        "name" : "Adam Sandler"
+      }, {
+        "name" : "Miley Cyrus"
+      }, {
+        "name" : "Nando Reis"
+      }, {
+        "name" : "John Lennon"
+      }, {
+        "name" : "Beyoncé"
+      }, {
+        "name" : "Natalie Portman"
+      }, {
+        "name" : "Bono"
+      }, {
+        "name" : "Cameron Diaz"
+      }, {
+        "name" : "Eminem"
+      }, {
+        "name" : "Mussum"
+      }, {
+        "name" : "Bob Marley"
+      }, {
+        "name" : "Bruno Mars"
+      }, {
+        "name" : "Paul McCartney"
+      }, {
+        "name" : "Lionel Messi"
+      }, {
+        "name" : "Anitta"
+      }, {
+        "name" : "Ed Sheeran"
+      }, {
+        "name" : "Charlie Sheen"
+      }, {
+        "name" : "Ana Caronlina"
+      }, {
+        "name" : "Kristen Stewart"
+      }, {
+        "name" : "Katy Perry"
+      }, {
+        "name" : "Howard Stern"
+      }, {
+        "name" : "George Harrison"
+      }, {
+        "name" : "Brad Pitt"
+      }, {
+        "name" : "Kate Moss"
+      }, {
+        "name" : "Jorge e Mateus"
+      }, {
+        "name" : "Dwayne Wade"
+      }, {
+        "name" : "Johnny Deep"
+      }, {
+        "name" : "Beyoncé"
+      }, {
+        "name" : "Lady Gaga"
+      }, {
+        "name" : "Gilberto Gil"
+      }, {
+        "name" : "Lil Wayne"
+      }, {
+        "name" : "Chico Buarque"
+      }, {
+        "name" : "MC Kevinho"
+      }, {
+        "name" : "Lana del Rey"
+      }, {
+        "name" : "Jay-Z"
+      }, {
+        "name" : "Larry The Cable Guy"
+      }, {
+        "name" : "Christopher Nolan"
+      }, {
+        "name" : "Pink"
+      }, {
+        "name" : "Post Malone"
+      }, {
+        "name" : "Rafael Nadal"
+      }, {
+        "name" : "Reese Witherspoon"
+      }, {
+        "name" : "Renato Russo"
+      }, {
+        "name" : "Rihanna"
+      }, {
+        "name" : "Ringo Star"
+      }, {
+        "name" : "Robert Downey Jr"
+      }, {
+        "name" : "Roberto Carlos"
+      }, {
+        "name" : "Roger Federer"
+      }, {
+        "name" : "Ryan Seacrest"
+      }, {
+        "name" : "Sam Smith"
+      }, {
+        "name" : "Sandra Bullock"
+      }, {
+        "name" : "Sandy & Junior"
+      }, {
+        "name" : "Sarah Jessica Parker"
+      }, {
+        "name" : "Serena Williams"
+      }, {
+        "name" : "Seu Jorge"
+      }, {
+        "name" : "Shakira"
+      }, {
+        "name" : "Stephen King"
+      }, {
+        "name" : "Steve Carell"
+      }, {
+        "name" : "Steven Spielberg"
+      }, {
+        "name" : "Taylor Swift"
+      }, {
+        "name" : "Tim McGraw"
+      }, {
+        "name" : "Tina Fey"
+      }, {
+        "name" : "Tom Brady"
+      }, {
+        "name" : "Tom Hanks"
+      }, {
+        "name" : "Tyler Perry"
+      }, {
+        "name" : "Usher"
+      }, {
+        "name" : "Will Smith"
+      }, {
+        "name" : "Zé Ramalho"
+      }, {
+        "name" : "Zezé Di Camargo e Luciano"
+      }, {
+        "name" : "Didi"
+      }, {
+        "name" : "Dedé"
+      }, {
+        "name" : "Zacarias"
+      }, {
+        "name" : "Leandro Hassum"
+      }, {
+        "name" : "Marcelo Adnet"
+      }, {
+        "name" : "Whindersson Nunes"
+      }, {
+        "name" : "Xuxa"
+      }, {
+        "name" : "Carmen Miranda"
+      }, {
+        "name" : "Pelé"
+      }, {
+        "name" : "Angélica"
+      }, {
+        "name" : "Kim Kardashian"
+      }, {
+        "name" : "Lady "
+      }, {
+        "name" : "Kylie Jenner"
+      } ]
+    },
+    "characters" : {
+      "color" : "683026",
+      "id" : 6,
+      "inApp" : "Personagens",
+      "name" : "Personagens",
+      "public" : true,
+      "words" : [ {
+        "name" : "Ace Ventura"
+      }, {
+        "name" : "Amelie Poulin"
+      }, {
+        "name" : "Rick (Rick & Morty)"
+      }, {
+        "name" : "Anton Chigurh (Onde os Fracos Não Têm Vez)"
+      }, {
+        "name" : "Aragorn (O Senhor dos Aneis)"
+      }, {
+        "name" : "Ash (A Morte do Demônio)"
+      }, {
+        "name" : "Atticus Finch (O Sol É Para Todos)"
+      }, {
+        "name" : "Axel Foley (Um Tira da Pesada)"
+      }, {
+        "name" : "Bane (Batman & Robin / O Cavaleiro das Trevas Ressurge)"
+      }, {
+        "name" : "Bilbo Baggins (O Senhor dos Aneis)"
+      }, {
+        "name" : "Cabo Hicks (Aliens)"
+      }, {
+        "name" : "Capitão América"
+      }, {
+        "name" : "Capitão Jack Sparrow (Piratas do Caribe)"
+      }, {
+        "name" : "Capitão Kirk (Star Trek)"
+      }, {
+        "name" : "Capitão Mal Reynolds (Serenity)"
+      }, {
+        "name" : "Daniel Plainview (Sangue Negro)"
+      }, {
+        "name" : "Doc Brown (De Volta Para o Futuro)"
+      }, {
+        "name" : "Don Corleone (O Poderoso Chefão)"
+      }, {
+        "name" : "Donnie Darko"
+      }, {
+        "name" : "Morty (Rick & Morty)"
+      }, {
+        "name" : "Edna Mode (Os Incríveis)"
+      }, {
+        "name" : "ET"
+      }, {
+        "name" : "Homer (Simpsons)"
+      }, {
+        "name" : "Ferris Bueller (Curtindo a Vida Adoidado)"
+      }, {
+        "name" : "Forrest Gump"
+      }, {
+        "name" : "Flanders (Os Simpsons)"
+      }, {
+        "name" : "Gandalf (O Senhor dos Aneis)"
+      }, {
+        "name" : "George Bailey (A Felicidade Não se Compra)"
+      }, {
+        "name" : "Gollum/Smeagol (O Senhor dos Aneis)"
+      }, {
+        "name" : "Gromit (Wallace & Gromit)"
+      }, {
+        "name" : "Groot (Guardiões da Galáxia)"
+      }, {
+        "name" : "Hal (2001: Uma Odisseia no Espaço)"
+      }, {
+        "name" : "Hannibal Lecter (Silêncio dos Inocentes)"
+      }, {
+        "name" : "Hans Landa (Bastardos Inglórios)"
+      }, {
+        "name" : "Stewie (Uma Família da Pesada)"
+      }, {
+        "name" : "Harry Potter"
+      }, {
+        "name" : "Homem de Ferro"
+      }, {
+        "name" : "Indigo Montoya (A Princesa Prometida)"
+      }, {
+        "name" : "Inspetor Clouseau (A Pantera Cor-de-Rosa)"
+      }, {
+        "name" : "Jack Burton (Os Aventureiros do Bairro Proibido)"
+      }, {
+        "name" : "Jules (Pulp Fiction)"
+      }, {
+        "name" : "Katniss Everdeen (Jogos Vorazes)"
+      }, {
+        "name" : "Django (Django Livre)"
+      }, {
+        "name" : "Brian (Uma Família da Pesada)"
+      }, {
+        "name" : "Legolas (O Senhor dos Aneis)"
+      }, {
+        "name" : "Vovó Juju (Irmão do Jorel)"
+      }, {
+        "name" : "Magali (Turma da Mônica)"
+      }, {
+        "name" : "Loki (Vingadores)"
+      }, {
+        "name" : "Bidu (Turma da Mônica)"
+      }, {
+        "name" : "Luke Skywalker (Star Wars)"
+      }, {
+        "name" : "Blanka (Street Fighter)"
+      }, {
+        "name" : "Zé Carioca"
+      }, {
+        "name" : "Martin Blank (Matador em Conflito)"
+      }, {
+        "name" : "Marty McFly (De Volta Para o Futuro)"
+      }, {
+        "name" : "Maximus (Gladiador)"
+      }, {
+        "name" : "Minions"
+      }, {
+        "name" : "Neo (Matrix)"
+      }, {
+        "name" : "Fofão"
+      }, {
+        "name" : "Agostinho (A Grande Família)"
+      }, {
+        "name" : "O Exterminador – T-800 (O Exterminador do Futuro)"
+      }, {
+        "name" : "O Homem sem Nome (Por um Punhado de Dólares)"
+      }, {
+        "name" : "Obi-Wan Kenobi (Star Wars)"
+      }, {
+        "name" : "Optimus Prime (Transformers)"
+      }, {
+        "name" : "Lineu (A Grande Família)"
+      }, {
+        "name" : "Tucco (A Grande Família"
+      }, {
+        "name" : "Gloria (Modern Family)"
+      }, {
+        "name" : "Rui (Os Normais)"
+      }, {
+        "name" : "Magda (Saí de Baixo)"
+      }, {
+        "name" : "Rick Deckard (Blade Runner)"
+      }, {
+        "name" : "Rocky Balboa"
+      }, {
+        "name" : "Ron Burgundy (O Âncora)"
+      }, {
+        "name" : "Ribamar (Saí de Baixo)"
+      }, {
+        "name" : "Samwise Gamgee (O Senhor dos Aneis)"
+      }, {
+        "name" : "Sarah Connor (O Exterminador do Futuro)"
+      }, {
+        "name" : "Sueli (Tapas & Beijos)"
+      }, {
+        "name" : "Pica Pau"
+      }, {
+        "name" : "Mickey"
+      }, {
+        "name" : "Star Lord (Guardiões da Galáxia)"
+      }, {
+        "name" : "Pateta"
+      }, {
+        "name" : "Tony Montana (Scarface)"
+      }, {
+        "name" : "Travis Bickle (Taxi Driver)"
+      }, {
+        "name" : "V (V de Vingança)"
+      }, {
+        "name" : "Vito Corleone (O Poderoso Chefão)"
+      }, {
+        "name" : "Pluto"
+      }, {
+        "name" : "R2D2 (Star Wars)"
+      }, {
+        "name" : "Dory (Procurando Nemo)"
+      }, {
+        "name" : "Garfield"
+      }, {
+        "name" : "Wolverine"
+      }, {
+        "name" : "Woody (Toy Story)"
+      }, {
+        "name" : "Yoda (Star Wars)"
+      }, {
+        "name" : "Johnny Bravo"
+      }, {
+        "name" : "Dexter"
+      }, {
+        "name" : "Arnold (Hey Arnord)"
+      } ]
+    },
+    "futbol" : {
+      "color" : "0993A0",
+      "id" : 7,
+      "inApp" : "Futebol",
+      "name" : "Futebol",
+      "public" : false,
+      "token" : 910419732,
+      "words" : [ {
+        "name" : "Pelé"
+      }, {
+        "name" : "Roberto Carlos"
+      }, {
+        "name" : "Garrincha"
+      }, {
+        "name" : "Ronaldinho Gaúcho"
+      }, {
+        "name" : "Dedé"
+      }, {
+        "name" : "Fernando Pras"
+      }, {
+        "name" : "Ronaldo"
+      }, {
+        "name" : "Neymar"
+      }, {
+        "name" : "Marcelo"
+      }, {
+        "name" : "David Luiz"
+      }, {
+        "name" : "Cristiano Ronaldo"
+      }, {
+        "name" : "Messi"
+      }, {
+        "name" : "Adriano Imperador"
+      }, {
+        "name" : "Aguero"
+      }, {
+        "name" : "Alan Kardec"
+      }, {
+        "name" : "Aldair"
+      }, {
+        "name" : "Baile"
+      }, {
+        "name" : "Beckenbauer"
+      }, {
+        "name" : "Bekham"
+      }, {
+        "name" : "Buffon"
+      }, {
+        "name" : "Cafu"
+      }, {
+        "name" : "Casillas"
+      }, {
+        "name" : "Cássio"
+      }, {
+        "name" : "Cristiano Ronaldo"
+      }, {
+        "name" : "Dada Maravilha"
+      }, {
+        "name" : "Davi Villa"
+      }, {
+        "name" : "David Luiz"
+      }, {
+        "name" : "Dedé"
+      }, {
+        "name" : "Dida"
+      }, {
+        "name" : "Djalma Santos"
+      }, {
+        "name" : "Dunga"
+      }, {
+        "name" : "Emerson Sheik"
+      }, {
+        "name" : "Falcão"
+      }, {
+        "name" : "Fernando Prass"
+      }, {
+        "name" : "Fernando Torres"
+      }, {
+        "name" : "Forlan"
+      }, {
+        "name" : "Fred"
+      }, {
+        "name" : "Ganso"
+      }, {
+        "name" : "Garrincha"
+      }, {
+        "name" : "Gerrard"
+      }, {
+        "name" : "Guardiola"
+      }, {
+        "name" : "Howard Web (Juiz)"
+      }, {
+        "name" : "Hulk"
+      }, {
+        "name" : "Ibaimovich"
+      }, {
+        "name" : "Iniesta"
+      }, {
+        "name" : "Jairzinho"
+      }, {
+        "name" : "James Rodrigue"
+      }, {
+        "name" : "Jefferson"
+      }, {
+        "name" : "Jô"
+      }, {
+        "name" : "Joel Santana"
+      }, {
+        "name" : "Julio Cesar"
+      }, {
+        "name" : "Juninho Pernambucan"
+      }, {
+        "name" : "Junior"
+      }, {
+        "name" : "Kaká"
+      }, {
+        "name" : "Klose"
+      }, {
+        "name" : "Kroos"
+      }, {
+        "name" : "Lavezzi"
+      }, {
+        "name" : "Lúcio"
+      }, {
+        "name" : "Luiz Fabiano"
+      }, {
+        "name" : "Luiz Felipe Scolari"
+      }, {
+        "name" : "Mano Menezes"
+      }, {
+        "name" : "Maradona"
+      }, {
+        "name" : "Marcelo"
+      }, {
+        "name" : "Marcio Santos"
+      }, {
+        "name" : "Messi"
+      }, {
+        "name" : "Mourinho"
+      }, {
+        "name" : "Muller"
+      }, {
+        "name" : "Murici Ramalho"
+      }, {
+        "name" : "Negueba"
+      }, {
+        "name" : "Neur"
+      }, {
+        "name" : "Neymar"
+      }, {
+        "name" : "Ochoa"
+      }, {
+        "name" : "Odvan"
+      }, {
+        "name" : "Oscar"
+      }, {
+        "name" : "Ozil"
+      }, {
+        "name" : "Parreira"
+      }, {
+        "name" : "Pato"
+      }, {
+        "name" : "Pelé"
+      }, {
+        "name" : "Pepe"
+      }, {
+        "name" : "Pet"
+      }, {
+        "name" : "Peter Cech"
+      }, {
+        "name" : "Pique"
+      }, {
+        "name" : "Puyol"
+      }, {
+        "name" : "Ramires"
+      }, {
+        "name" : "Rivaldo"
+      }, {
+        "name" : "Robben"
+      }, {
+        "name" : "Roberto Carlos"
+      }, {
+        "name" : "Robinho"
+      }, {
+        "name" : "Romario"
+      }, {
+        "name" : "Ronaldinho"
+      }, {
+        "name" : "Ronaldo Fenomeno"
+      }, {
+        "name" : "Rooney"
+      }, {
+        "name" : "Samuel Eto"
+      }, {
+        "name" : "Schweinsteiger"
+      }, {
+        "name" : "Sneijder"
+      }, {
+        "name" : "Suarez"
+      }, {
+        "name" : "Tafarel"
+      }, {
+        "name" : "Thiago Silva"
+      }, {
+        "name" : "Tim Krul"
+      }, {
+        "name" : "Titi"
+      }, {
+        "name" : "Tostão"
+      }, {
+        "name" : "Tulio Maravilha"
+      }, {
+        "name" : "Vampeta"
+      }, {
+        "name" : "Van Der Sar"
+      }, {
+        "name" : "Van Persie"
+      }, {
+        "name" : "Zagalo"
+      }, {
+        "name" : "Zico"
+      }, {
+        "name" : "Zidane"
+      } ]
+    },
+    "games" : {
+      "color" : "FDDAC0",
+      "id" : 8,
+      "inApp" : "Games",
+      "name" : "Games",
+      "public" : false,
+      "token" : 910421091,
+      "words" : [ {
+        "name" : "Agent 47"
+      }, {
+        "name" : "Albert Wesker"
+      }, {
+        "name" : "Allejo"
+      }, {
+        "name" : " Aladin"
+      }, {
+        "name" : "Amaterasu"
+      }, {
+        "name" : "Ashe"
+      }, {
+        "name" : "Banjo E Kazooie"
+      }, {
+        "name" : "Bayonetta"
+      }, {
+        "name" : "Big Daddy"
+      }, {
+        "name" : "Bioshock"
+      }, {
+        "name" : "Bison"
+      }, {
+        "name" : "Blanka"
+      }, {
+        "name" : "Bowser"
+      }, {
+        "name" : "Brutal Legend"
+      }, {
+        "name" : "Captain Price"
+      }, {
+        "name" : "Carl Johnson"
+      }, {
+        "name" : "Chin-Li"
+      }, {
+        "name" : "Cloud Strife"
+      }, {
+        "name" : "Crash Bandicoot"
+      }, {
+        "name" : "Dante"
+      }, {
+        "name" : "Devil May Cry"
+      }, {
+        "name" : "Donkey Kong"
+      }, {
+        "name" : "Dota"
+      }, {
+        "name" : "Dovahkiin"
+      }, {
+        "name" : "Dr. Eggman"
+      }, {
+        "name" : "Duke Nuken"
+      }, {
+        "name" : "Edward Kenway"
+      }, {
+        "name" : "Elena Fisher"
+      }, {
+        "name" : "Ellie"
+      }, {
+        "name" : "Ethan Mars"
+      }, {
+        "name" : "Ezio"
+      }, {
+        "name" : "Falcon"
+      }, {
+        "name" : "Fox Mccloud"
+      }, {
+        "name" : "Frank West"
+      }, {
+        "name" : "Ganodorf"
+      }, {
+        "name" : "Gordon Freeman"
+      }, {
+        "name" : "Infamous"
+      }, {
+        "name" : "Jax"
+      }, {
+        "name" : "Jill Valentine"
+      }, {
+        "name" : "Jim Raynor"
+      }, {
+        "name" : "Joel"
+      }, {
+        "name" : "John Marston"
+      }, {
+        "name" : "Killzone"
+      }, {
+        "name" : "Kirby"
+      }, {
+        "name" : "Koopa Troopa"
+      }, {
+        "name" : "Kratos"
+      }, {
+        "name" : "Lara Croft"
+      }, {
+        "name" : "Left 4 Dead"
+      }, {
+        "name" : "Leon Scott Kennedy"
+      }, {
+        "name" : "Link"
+      }, {
+        "name" : "Luigi"
+      }, {
+        "name" : "Maplestory"
+      }, {
+        "name" : "Marcus Fenix"
+      }, {
+        "name" : "Mario"
+      }, {
+        "name" : "Master Chief"
+      }, {
+        "name" : "Max Payne"
+      }, {
+        "name" : "Megaman"
+      }, {
+        "name" : "Minecraft"
+      }, {
+        "name" : "Mirro’S Edge"
+      }, {
+        "name" : "Mu"
+      }, {
+        "name" : "Nathan Drake"
+      }, {
+        "name" : "Nemesis"
+      }, {
+        "name" : "Niko Belic"
+      }, {
+        "name" : "Ninja Gaiden"
+      }, {
+        "name" : "Pac-Man"
+      }, {
+        "name" : "Peach"
+      }, {
+        "name" : "Pit"
+      }, {
+        "name" : "Prince Of Persia"
+      }, {
+        "name" : "Rayman"
+      }, {
+        "name" : "Rex Colt"
+      }, {
+        "name" : "Ridley"
+      }, {
+        "name" : "Runescape"
+      }, {
+        "name" : "Ryu"
+      }, {
+        "name" : "Sackboy"
+      }, {
+        "name" : "Samus"
+      }, {
+        "name" : "Sarah Kerrigan"
+      }, {
+        "name" : "Scorpion"
+      }, {
+        "name" : "Sephroth"
+      }, {
+        "name" : "Shadow Of The Colossus"
+      }, {
+        "name" : "Solid Snake"
+      }, {
+        "name" : "Sonic"
+      }, {
+        "name" : "Sora"
+      }, {
+        "name" : "Spyro The Dragon"
+      }, {
+        "name" : "Star Craft"
+      }, {
+        "name" : "Sub Zero"
+      }, {
+        "name" : "Super Meat Boy"
+      }, {
+        "name" : "Super Smash Bros"
+      }, {
+        "name" : "Sweet Tooth"
+      }, {
+        "name" : "Teemo"
+      }, {
+        "name" : "Tekken"
+      }, {
+        "name" : "The Last Of Us"
+      }, {
+        "name" : "Titan Fall"
+      }, {
+        "name" : "Travis Touchdown"
+      }, {
+        "name" : "Trevor"
+      }, {
+        "name" : "Twisted Metal"
+      }, {
+        "name" : "Wander"
+      }, {
+        "name" : "Wario"
+      }, {
+        "name" : "World Of Warcraft"
+      }, {
+        "name" : "Yoshi"
+      }, {
+        "name" : "Zangief"
+      }, {
+        "name" : "Zelda"
+      } ]
+    },
+    "hits" : {
+      "color" : "B64633",
+      "id" : 9,
+      "inApp" : "Hits",
+      "name" : "Hits",
+      "public" : false,
+      "token" : 910419526,
+      "words" : [ {
+        "name" : "Shallow (Lady Gaga)"
+      }, {
+        "name" : "Fix You (Coldplay)"
+      }, {
+        "name" : "Bohemian Rhapsody (Queen)"
+      }, {
+        "name" : "Some One Like You (Adele)"
+      }, {
+        "name" : "Quando a vontade bater (Pk)"
+      }, {
+        "name" : "Señorita (Shawn Mendes)"
+      }, {
+        "name" : "Evoluiu (Mc Kevin, Sodré)"
+      }, {
+        "name" : "Invocada (Ludmilla)"
+      }, {
+        "name" : "Malemolência (Dynho Alves)"
+      }, {
+        "name" : "Bola Rebola (Anitta e Tropkillaz)"
+      }, {
+        "name" : "Bad Guy (Billie Eilish)"
+      }, {
+        "name" : "Jenifer (Gabriel Diniz)"
+      }, {
+        "name" : "Cerveja de Garrafa (Atitude 67)"
+      }, {
+        "name" : "O Tempo Não Pára (Cazuza)"
+      }, {
+        "name" : "Malandragem (Cássia Eller)"
+      } ]
+    },
+    "movies" : {
+      "color" : "8C3A2C",
+      "id" : 10,
+      "inApp" : "Filmes",
+      "name" : "Filmes",
+      "public" : true,
+      "words" : [ {
+        "name" : "Quem Quer Ser um Milionário?"
+      }, {
+        "name" : "Se Eu Fosse Você"
+      }, {
+        "name" : "Missão Impossível"
+      }, {
+        "name" : "Toy Story"
+      }, {
+        "name" : "Rocky, um Lutador"
+      }, {
+        "name" : "La La Land"
+      }, {
+        "name" : "Senhor dos Anéis"
+      }, {
+        "name" : "Curtindo a Vida Adoidado"
+      }, {
+        "name" : "O Poderoso Chefão"
+      }, {
+        "name" : "O Grande Lebowski"
+      }, {
+        "name" : "Brilho Eterno de uma Mente sem Lembranças"
+      }, {
+        "name" : "Olga"
+      }, {
+        "name" : "Fargo"
+      }, {
+        "name" : "Lawrence da Arábia"
+      }, {
+        "name" : "King Kong"
+      }, {
+        "name" : "Blade Runner, o Caçador de Andróides"
+      }, {
+        "name" : "Alien, o Oitavo Passageiro"
+      }, {
+        "name" : "Monty Python Em Busca do Cálice Sagrado"
+      }, {
+        "name" : "O Homem e Copiava"
+      }, {
+        "name" : "A Fantástica Fábrica de Chocolate"
+      }, {
+        "name" : "Apocalypse Now"
+      }, {
+        "name" : "O Segredo de Brokeback Mountain"
+      }, {
+        "name" : "Mulher Maravilha"
+      }, {
+        "name" : "Pulp Fiction – Tempo de Violência"
+      }, {
+        "name" : "Star Wars: O Império Contra-Ataca"
+      }, {
+        "name" : "Forrest Gump: O Contador de Histórias"
+      }, {
+        "name" : "Touro Indomável"
+      }, {
+        "name" : "Entre Abelhas"
+      }, {
+        "name" : "A Bela e a Fera"
+      }, {
+        "name" : "Amor, Sublime Amor"
+      }, {
+        "name" : "Cidadão Kane"
+      }, {
+        "name" : "Argo"
+      }, {
+        "name" : "E o Vento Levou"
+      }, {
+        "name" : "O Mágico de Oz"
+      }, {
+        "name" : "ET – O Extraterrestre"
+      }, {
+        "name" : "A Felicidade Não se Compra"
+      }, {
+        "name" : "Baby Driver"
+      }, {
+        "name" : "Roma"
+      }, {
+        "name" : "Sindicato de Ladrões"
+      }, {
+        "name" : "Os Íncriveis"
+      }, {
+        "name" : "A Malvada"
+      }, {
+        "name" : "O Rei Leão"
+      }, {
+        "name" : "Gravidade"
+      }, {
+        "name" : "Casablanca"
+      }, {
+        "name" : "Jurassic Park: O Parque dos Dinossauros"
+      }, {
+        "name" : "Os Bons Companheiros"
+      }, {
+        "name" : "O Iluminado"
+      }, {
+        "name" : "A Noviça Rebelde"
+      }, {
+        "name" : "Mad Max"
+      }, {
+        "name" : "Clube dos Cinco"
+      }, {
+        "name" : "De Volta Para o Futuro"
+      }, {
+        "name" : "Cantando na Chuva"
+      }, {
+        "name" : "Apertem os Cintos… O Piloto Sumiu"
+      }, {
+        "name" : "Os Caça-Fantasmas"
+      }, {
+        "name" : "2001: Uma Odisséia no Espaço"
+      }, {
+        "name" : "Star Wars: Uma Nova Esperança"
+      }, {
+        "name" : "Um Sonho de Liberdade"
+      }, {
+        "name" : "Tubarão"
+      }, {
+        "name" : "Pantera Negra"
+      }, {
+        "name" : "Contatos Imediatos de Terceiro Grau"
+      }, {
+        "name" : "Toy Story"
+      }, {
+        "name" : "Up – Altas Aventuras"
+      }, {
+        "name" : "Interestelar"
+      }, {
+        "name" : "Avatar"
+      }, {
+        "name" : "Cães de Aluguel"
+      }, {
+        "name" : "Carandiru"
+      }, {
+        "name" : "Coração Valente"
+      }, {
+        "name" : "O Palhaço"
+      }, {
+        "name" : "Os Suspeitos"
+      }, {
+        "name" : "Os Sete Samurais"
+      }, {
+        "name" : "Um Estranho no Ninho"
+      }, {
+        "name" : "Feitiço do Tempo"
+      }, {
+        "name" : "Gladiador"
+      }, {
+        "name" : "Dr Fantástico"
+      }, {
+        "name" : "Duro de Matar"
+      }, {
+        "name" : "Nasce Uma Estrela"
+      }, {
+        "name" : "Cidade de Deus"
+      }, {
+        "name" : "Titanic"
+      }, {
+        "name" : "Matrix"
+      }, {
+        "name" : "Central do Brasil"
+      }, {
+        "name" : "Wall-E"
+      }, {
+        "name" : "Psicose"
+      }, {
+        "name" : "A Origem"
+      }, {
+        "name" : "O Fabuloso Destino de Amélie Poulain"
+      }, {
+        "name" : "Clube da Luta"
+      }, {
+        "name" : "Batman: O Cavaleiro das Trevas"
+      }, {
+        "name" : "12 Homens e uma Sentença"
+      }, {
+        "name" : "O Resgate do Soldado Ryan"
+      }, {
+        "name" : "Amadeus"
+      }, {
+        "name" : "O Silêncio dos Inocentes"
+      }, {
+        "name" : "Beleza Americana"
+      }, {
+        "name" : "Chinatown"
+      }, {
+        "name" : "Seven – Os Sete Crimes Capitais"
+      }, {
+        "name" : "O Mágico de Oz"
+      }, {
+        "name" : "Tropa de Elite"
+      }, {
+        "name" : "O Auto da Compadecida"
+      }, {
+        "name" : "O Roubo da Taça"
+      }, {
+        "name" : "O Labirinto do Fauno"
+      }, {
+        "name" : "Amnésia"
+      }, {
+        "name" : "Xingu"
+      }, {
+        "name" : "Mary Poppins"
+      }, {
+        "name" : "A Lista de Schindler"
+      }, {
+        "name" : "Laranja Mecânica"
+      }, {
+        "name" : "Planeta dos Macacos"
+      }, {
+        "name" : "Gênio Indomável"
+      }, {
+        "name" : "Indiana Jones"
+      }, {
+        "name" : "Procurando Nemo"
+      }, {
+        "name" : "Noivo Neurótico, Noiva Nervosa"
+      }, {
+        "name" : "Todos os Homens do Presidente"
+      }, {
+        "name" : "Taxi Driver – Motorista de Táxi"
+      }, {
+        "name" : "De Pernas pro Ar"
+      }, {
+        "name" : "Ensaio Sobre a Cegueira"
+      }, {
+        "name" : "Faroeste Cabloco"
+      }, {
+        "name" : "Heleno"
+      }, {
+        "name" : "Meu Nome não é Johnny"
+      }, {
+        "name" : "Moana"
+      } ]
+    },
+    "music" : {
+      "color" : "918F90",
+      "id" : 11,
+      "inApp" : "Musicasnacinais",
+      "name" : "Musicas Nacionais",
+      "public" : false,
+      "token" : 910421019,
+      "words" : [ {
+        "name" : "360 O Arrocha Do Poder - Thiago Brava"
+      }, {
+        "name" : "A Novidade - Gilberto Gil"
+      }, {
+        "name" : "Aguas De Março - Tom Jobim"
+      }, {
+        "name" : "Ah Lelek Lek Lek - Dj Maluco &amp"
+      }, {
+        "name" : "Ai Se Eu Te Pego - Michel Teló"
+      }, {
+        "name" : "Amiga Da Minha Mulher - Seu Jorge"
+      }, {
+        "name" : "Anjos - O Rappa"
+      }, {
+        "name" : "Anna Júlia - Los Hermanos"
+      }, {
+        "name" : "Aonde Quer Que Eu Vá - Os Paralamas Do Sucesso"
+      }, {
+        "name" : "Apenas Mais Uma De Amor - Lulu Santos"
+      }, {
+        "name" : "As Mina Pira - Gusttavo Lima"
+      }, {
+        "name" : "Asa Branca - Luiz Gonzaga"
+      }, {
+        "name" : "Asas - Falamansa"
+      }, {
+        "name" : "Avohai - Zé Ramalho"
+      }, {
+        "name" : "Bara Bará Bere Berê"
+      }, {
+        "name" : "Beijinho No Ombro - Gaiola Das Popozudas"
+      }, {
+        "name" : "Boa Sorte - Vanessa Da Mata"
+      }, {
+        "name" : "Burguesinha - Seu Jorge"
+      }, {
+        "name" : "Caviar - Zeva Pagodinho"
+      }, {
+        "name" : "Como Eu Quero - Kid Abelha"
+      }, {
+        "name" : "Coração Radiante - Grupo Revelação"
+      }, {
+        "name" : "Cotidiano - Chico Buarque"
+      }, {
+        "name" : "Deixa A Vida Me Levar - Zeca Pagodinho"
+      }, {
+        "name" : "Dias Melhores - Jota Quest"
+      }, {
+        "name" : "Disritmia - Martinho Da Vila"
+      }, {
+        "name" : "É Isso Ai - Ana Carolina"
+      }, {
+        "name" : "É Nóis Faze Parapapa"
+      }, {
+        "name" : "Eduardo E Mônica - Legião Urbana"
+      }, {
+        "name" : "Ela Une Todas As Coisas - Jorge Vercillo"
+      }, {
+        "name" : "Esperando Na Janela - Gilberto Gil"
+      }, {
+        "name" : "Eu E Você Sempre - Jorge Aragão"
+      }, {
+        "name" : "Eu Nasci Há Dez Mil Anos Atrás - Raul Seixas"
+      }, {
+        "name" : "Eu Quero Sempre Mais - Ira!"
+      }, {
+        "name" : "Eva - Ivete Sangalo"
+      }, {
+        "name" : "Exagerado - Cazuza"
+      }, {
+        "name" : "Exagerado - Naldo"
+      }, {
+        "name" : "Expresso 2222 - Gilberto Gil"
+      }, {
+        "name" : "Fato Consumado - Djavan"
+      }, {
+        "name" : "Faz Uó - Banda Uó"
+      }, {
+        "name" : "Fico Assim Sem Você - Adriana Calcanhotto"
+      }, {
+        "name" : "Fui Fiel - Pablo"
+      }, {
+        "name" : "Garota De Ipanema - Tom Jobim"
+      }, {
+        "name" : "Garota Nacional - Skank"
+      }, {
+        "name" : "Gatinha Assanhada - Gusttavo Lima"
+      }, {
+        "name" : "Geração Coca-Cola - Legião Urbana"
+      }, {
+        "name" : "Glamurosa - Mc Marcinho"
+      }, {
+        "name" : "Gostava Tanto De Você - Tim Maia"
+      }, {
+        "name" : "Homem Primata - Titãs"
+      }, {
+        "name" : "Ive Brussel - Jorge Ben Jor"
+      }, {
+        "name" : "Jorge Maravilha - Chico Buarque"
+      }, {
+        "name" : "La Belle De Jour - Alceu Valença"
+      }, {
+        "name" : "Lágrimas E Chuva - Kid Abelha"
+      }, {
+        "name" : "Lepo Lepo - Psirico"
+      }, {
+        "name" : "Louca Louquinha - João Lucas E Marcelo"
+      }, {
+        "name" : "Louquinha - Mc K9"
+      }, {
+        "name" : "Malandragem - Cássia Eller"
+      }, {
+        "name" : "Mas Que Nada - Jorge Ben Jor"
+      }, {
+        "name" : "Não Deixe O Samba Morrer - Alcione"
+      }, {
+        "name" : "Não Quero Dinheiro - Tim Maia"
+      }, {
+        "name" : "Não To Valendo Nada - Henrique E Julinao"
+      }, {
+        "name" : "Natasha - Capital Inicial"
+      }, {
+        "name" : "Natiruts Raggae Power - Natiruts"
+      }, {
+        "name" : "Nem Um Dia - Djavan"
+      }, {
+        "name" : "O Leãozinho - Caetano Veloso"
+      }, {
+        "name" : "O Que É, O Que É? - Gonzaguinha"
+      }, {
+        "name" : "O Tempo Não Para - Cazuza"
+      }, {
+        "name" : "Oh! Chuva - Falamansa"
+      }, {
+        "name" : "País Tropical - Jorge Ben Jor"
+      }, {
+        "name" : "Palpite - Ana Carolina"
+      }, {
+        "name" : "Piradinha - Gabriel Valim"
+      }, {
+        "name" : "Pra Que Dinheiro -Martinho Da Villa"
+      }, {
+        "name" : "Pretinha - Seu Jorge"
+      }, {
+        "name" : "Primeiros Erros - Capital Inicial"
+      }, {
+        "name" : "Quero Ser Feliz Também - Natiruts"
+      }, {
+        "name" : "Rap Do Silva - Mc Marcinho"
+      }, {
+        "name" : "Rindo À Toa - Falamansa"
+      }, {
+        "name" : "São Gonça - Seu Jorge"
+      }, {
+        "name" : "Se - Djavan"
+      }, {
+        "name" : "Show Das Poderosas - Anitta"
+      }, {
+        "name" : "Sina - Djavan"
+      }, {
+        "name" : "Só Hoje - Jota Quest"
+      }, {
+        "name" : "Só Vai De Camarote - Grupo Revelação"
+      }, {
+        "name" : "Sonífera Ilha - Titãs"
+      }, {
+        "name" : "Sozinho - Caetano Veloso"
+      }, {
+        "name" : "Surfista Do Lago Paranoá - Natiruts"
+      }, {
+        "name" : "Tá Escrito - Grupo Revelação"
+      }, {
+        "name" : "Telegrama - Zeva Baleiro"
+      }, {
+        "name" : "Tempo Perdido - Legião Urbana"
+      }, {
+        "name" : "Tente Outra Vez - Raul Seixas"
+      }, {
+        "name" : "Trilha Do Surf - Surf Sessions"
+      }, {
+        "name" : "Tudo Sobre Você - Zélia Duncan"
+      }, {
+        "name" : "Vagalumes - Pollo"
+      }, {
+        "name" : "Vai Vadiar - Zeca Pagodinho"
+      }, {
+        "name" : "Velha Infância - Tribalistas"
+      } ]
+    },
+    "phrases" : {
+      "color" : "36A7B2",
+      "icon" : "imagem",
+      "id" : 14,
+      "inApp" : "Frases",
+      "name" : "Frases de Filmes",
+      "public" : false,
+      "token" : 910420996,
+      "words" : [ {
+        "name" : "Eu vejo gente morta (Sexto Sentido)"
+      }, {
+        "name" : "A Força esteja com você(Guerra nas estrelas)"
+      }, {
+        "name" : "Eu voltarei (Exterminador do Futuro)"
+      }, {
+        "name" : "Ganância… é bom (Wall Street)"
+      }, {
+        "name" : "Para mim, você é perfeita.(Simplesmente Amor)"
+      }, {
+        "name" : "Grandes poderes trazem grandes responsabilidades (Homem Aranha)"
+      }, {
+        "name" : "Mantenha os seus amigos por perto, e os inimigos ainda mais perto (Poderoso Chefão)"
+      }, {
+        "name" : "Eu sou o seu pai (Star Wars)"
+      }, {
+        "name" : "Por que está tão sério? (Batman)"
+      } ]
+    },
+    "romance" : {
+      "color" : "4A1F18",
+      "id" : 12,
+      "inApp" : "Novelas",
+      "name" : "Novelas",
+      "public" : false,
+      "token" : 910419649,
+      "words" : [ {
+        "name" : "Avenida Brasil"
+      }, {
+        "name" : "O Clone"
+      }, {
+        "name" : "A Casa Das 7 Mulheres"
+      }, {
+        "name" : "A Favorita"
+      }, {
+        "name" : "A Grande Família"
+      }, {
+        "name" : "A Indomada"
+      }, {
+        "name" : "A Maria Do Bairro"
+      }, {
+        "name" : "A Proxima Vítima"
+      }, {
+        "name" : "A Usurpadora"
+      }, {
+        "name" : "Acerola - Cisade Dos Homens"
+      }, {
+        "name" : "América"
+      }, {
+        "name" : "Augustinho Carrara - A Grande Família"
+      }, {
+        "name" : "Avenida Brasil"
+      }, {
+        "name" : "Babalu - Quatro Por Quatro"
+      }, {
+        "name" : "Bang Bang"
+      }, {
+        "name" : "Bebel - Paraíso Tropical"
+      }, {
+        "name" : "Bino - Carga Pesada"
+      }, {
+        "name" : "Bruno Mezenga - O Rei Do Gado"
+      }, {
+        "name" : "Buba - Renascer"
+      }, {
+        "name" : "Cadeirudo - A Indomada"
+      }, {
+        "name" : "Caminho Das Indias"
+      }, {
+        "name" : "Carga Pesada"
+      }, {
+        "name" : "Carrossel"
+      }, {
+        "name" : "Celebridade"
+      }, {
+        "name" : "Cidade Dos Homens"
+      }, {
+        "name" : "Cobras E Lagartos"
+      }, {
+        "name" : "Dona Xepa"
+      }, {
+        "name" : "Duas Caras"
+      }, {
+        "name" : "Em Família"
+      }, {
+        "name" : "Emilia - Sitio Do Picapau Amarelo"
+      }, {
+        "name" : "Escrava Isaura"
+      }, {
+        "name" : "Fera Ferida"
+      }, {
+        "name" : "Fina Estampa"
+      }, {
+        "name" : "Gabriela"
+      }, {
+        "name" : "Guerra Dos Sexos"
+      }, {
+        "name" : "Hilda Furacão"
+      }, {
+        "name" : "Império"
+      }, {
+        "name" : "Irmãos Coragem"
+      }, {
+        "name" : "Jamanta - Torre De Babel"
+      }, {
+        "name" : "Juma - Pantanal"
+      }, {
+        "name" : "Kubanacan"
+      }, {
+        "name" : "Laços De Familia"
+      }, {
+        "name" : "Laranjinha - Cidade Dos Homens"
+      }, {
+        "name" : "Lineu Silva - A Grande Familia"
+      }, {
+        "name" : "Magda - Sai De Baixo"
+      }, {
+        "name" : "Malhação"
+      }, {
+        "name" : "Mulheres De Areia"
+      }, {
+        "name" : "Nazaré - Senhora Do Destino"
+      }, {
+        "name" : "O Astro"
+      }, {
+        "name" : "O Clone"
+      }, {
+        "name" : "O Cravo E A Rosa"
+      }, {
+        "name" : "O Rei Do Gado"
+      }, {
+        "name" : "Obem Amado"
+      }, {
+        "name" : "Odete Roitman - Vale Tudo"
+      }, {
+        "name" : "Odorico Paraguassu - O Bem Amado"
+      }, {
+        "name" : "Os Mutantes"
+      }, {
+        "name" : "Pantanal"
+      }, {
+        "name" : "Paraiso Tropical"
+      }, {
+        "name" : "Pé Na Cova"
+      }, {
+        "name" : "Pecado Capital"
+      }, {
+        "name" : "Pedra Sobre Pedra"
+      }, {
+        "name" : "Pescador Parrudo - Kubanacan"
+      }, {
+        "name" : "Petruchio - O Cravo E A Rosa"
+      }, {
+        "name" : "Porto Dos Milagres"
+      }, {
+        "name" : "Quatro Po Quatro"
+      }, {
+        "name" : "Rainha Da Sucata"
+      }, {
+        "name" : "Raquel - Mulheres De Areia"
+      }, {
+        "name" : "Rebeldes"
+      }, {
+        "name" : "Renascer"
+      }, {
+        "name" : "Roque Santeiro"
+      }, {
+        "name" : "Rosalinda"
+      }, {
+        "name" : "Sai De Baixo"
+      }, {
+        "name" : "Salve Jorge"
+      }, {
+        "name" : "Selva De Pedra"
+      }, {
+        "name" : "Senhora Do Destino"
+      }, {
+        "name" : "Seu Nacib - Gabriela"
+      }, {
+        "name" : "Sinhozinho Malta - Roque Santeiro"
+      }, {
+        "name" : "Sítio Do Pica Pau Amarelo"
+      }, {
+        "name" : "Sob Nova Direção"
+      }, {
+        "name" : "Tapas E Beijos"
+      }, {
+        "name" : "Teresa Cristina - Fina Estampa"
+      }, {
+        "name" : "Tião Galinha - Renascer"
+      }, {
+        "name" : "Tieta"
+      }, {
+        "name" : "Toma Lá Da Cá"
+      }, {
+        "name" : "Tonho Da Lua - Mulheres De Areia"
+      }, {
+        "name" : "Torre De Babel"
+      }, {
+        "name" : "Vale Tudo"
+      }, {
+        "name" : "Vamp"
+      }, {
+        "name" : "Visconde De Sabugosa - Sítio Do Picapau Amarelo"
+      }, {
+        "name" : "Viuva Porcina - Roque Santeiro"
+      } ]
+    },
+    "series" : {
+      "color" : "36A7B2",
+      "id" : 13,
+      "inApp" : "Series",
+      "name" : "Series",
+      "public" : false,
+      "token" : 910420996,
+      "words" : [ {
+        "name" : "That 70s Show"
+      }, {
+        "name" : "Os Normais"
+      }, {
+        "name" : "Mindhunter"
+      }, {
+        "name" : "Sense8"
+      }, {
+        "name" : "Mad Men"
+      }, {
+        "name" : "Seinfeld"
+      }, {
+        "name" : "Futurama"
+      }, {
+        "name" : "Demolidor"
+      }, {
+        "name" : "Os Sopranos"
+      }, {
+        "name" : "New Girl"
+      }, {
+        "name" : "Riverdale"
+      }, {
+        "name" : "Tapas & Beijos"
+      }, {
+        "name" : "Doctor Who"
+      }, {
+        "name" : "Saí de Baixo"
+      }, {
+        "name" : "Conce Upon a Time"
+      }, {
+        "name" : "Baywatch"
+      }, {
+        "name" : "Maniac"
+      }, {
+        "name" : "Black Mirror"
+      }, {
+        "name" : "How to Get Away with Muderer"
+      }, {
+        "name" : "Os Trapalhões"
+      }, {
+        "name" : "A Diarista"
+      }, {
+        "name" : "Toma Lá, Dá Cá"
+      }, {
+        "name" : "Friends"
+      }, {
+        "name" : "Vikings"
+      }, {
+        "name" : "Dexter"
+      }, {
+        "name" : "TV Pirata"
+      }, {
+        "name" : "House of Cards"
+      }, {
+        "name" : "South Park"
+      }, {
+        "name" : "True Blood"
+      }, {
+        "name" : "Jessica Jones"
+      }, {
+        "name" : "3%"
+      }, {
+        "name" : "Game of Thrones"
+      }, {
+        "name" : "Greys Anatomy"
+      }, {
+        "name" : "Chaves"
+      }, {
+        "name" : "Narcos"
+      }, {
+        "name" : "Law & Order"
+      }, {
+        "name" : "House"
+      }, {
+        "name" : "The Sinner"
+      }, {
+        "name" : "The Walking Dead"
+      }, {
+        "name" : "Fargo"
+      }, {
+        "name" : "The Flash"
+      }, {
+        "name" : "How I Met Your Mother"
+      }, {
+        "name" : "30 Rock"
+      }, {
+        "name" : "The OA"
+      }, {
+        "name" : "Lost"
+      }, {
+        "name" : "Outlander"
+      }, {
+        "name" : "Lucifer"
+      }, {
+        "name" : "Rick and Morty"
+      }, {
+        "name" : "True Detective"
+      }, {
+        "name" : "GLOW"
+      }, {
+        "name" : "Legion"
+      }, {
+        "name" : "American Dad"
+      }, {
+        "name" : "The Big Bang Theory"
+      }, {
+        "name" : "Gotham"
+      }, {
+        "name" : "Better Call Saul"
+      }, {
+        "name" : "American Horror Story"
+      }, {
+        "name" : "Mr. Robot"
+      }, {
+        "name" : "Chernobyl"
+      }, {
+        "name" : "Sons of Anarchy"
+      }, {
+        "name" : "Larica Total"
+      }, {
+        "name" : "13 Reasons Why"
+      }, {
+        "name" : "The 100"
+      }, {
+        "name" : "O Mecanismo"
+      }, {
+        "name" : "Peaky Blinders"
+      }, {
+        "name" : "Supernatural"
+      }, {
+        "name" : "Arrow"
+      }, {
+        "name" : "Criminal Minds"
+      }, {
+        "name" : "Prison Break"
+      }, {
+        "name" : "Boardwalk Empire"
+      }, {
+        "name" : "24 Horas"
+      }, {
+        "name" : "Luke Cage"
+      }, {
+        "name" : "Modern Family"
+      }, {
+        "name" : "NCIS"
+      }, {
+        "name" : "Casa de Papel"
+      }, {
+        "name" : "This is Us"
+      }, {
+        "name" : "Eu, a Patroa e as Crianças"
+      }, {
+        "name" : "Breaking Bad"
+      }, {
+        "name" : "ER"
+      }, {
+        "name" : "Brooklyn Nine-Nine"
+      }, {
+        "name" : "Arquivo X"
+      }, {
+        "name" : "Agents of S.H.I.E.L.D"
+      }, {
+        "name" : "Suits"
+      }, {
+        "name" : "Stranger Things"
+      }, {
+        "name" : "Family Guy"
+      }, {
+        "name" : "Westworld"
+      }, {
+        "name" : "MacGyver"
+      }, {
+        "name" : "Orange is the New Black"
+      }, {
+        "name" : "Homeland"
+      }, {
+        "name" : "Spartacus"
+      }, {
+        "name" : "Big Little Lies"
+      }, {
+        "name" : "Sherlok"
+      }, {
+        "name" : "The Handsmaids Tale"
+      }, {
+        "name" : "It's Always Sunny in Philadelphia"
+      }, {
+        "name" : "Dark"
+      }, {
+        "name" : "Os Simpsons"
+      }, {
+        "name" : "Sex and the City"
+      }, {
+        "name" : "Star Trek"
+      }, {
+        "name" : "The Crown"
+      }, {
+        "name" : "The Office"
+      }, {
+        "name" : "The Vampire Diaries"
+      }, {
+        "name" : "Todo Mundo Odeia o Chris"
+      }, {
+        "name" : "Um Maluco no Pedaço"
+      }, {
+        "name" : "Silicon Valley"
+      }, {
+        "name" : "The IT Crowd"
+      } ]
+    }
+  }
+}
