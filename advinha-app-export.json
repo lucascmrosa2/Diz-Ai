@@ -2377,7 +2377,7 @@
       }, {
         "name" : "A Indomada"
       }, {
-        "name" : "A Maria Do Bairro"
+        "name" : "Maria Do Bairro"
       }, {
         "name" : "A Proxima Vítima"
       }, {
@@ -2469,7 +2469,7 @@
       }, {
         "name" : "O Rei Do Gado"
       }, {
-        "name" : "Obem Amado"
+        "name" : "O Bem Amado"
       }, {
         "name" : "Odete Roitman - Vale Tudo"
       }, {
@@ -2493,7 +2493,7 @@
       }, {
         "name" : "Porto Dos Milagres"
       }, {
-        "name" : "Quatro Po Quatro"
+        "name" : "Quatro Por Quatro"
       }, {
         "name" : "Rainha Da Sucata"
       }, {
@@ -2763,7 +2763,7 @@
         "name" : "The IT Crowd"
       } ]
     },
-    "Sertanejo 2019" : {
+    "sertanejo2019" : {
       "color" : "C9584D",
       "id" : 14,
       "inApp" : "sertanejo2019",
@@ -2923,6 +2923,6 @@
       }, {
         "name" : "Namorada Reserva"
       } ]
-    },
+    }
   }
 }
