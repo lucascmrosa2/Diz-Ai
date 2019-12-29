@@ -2764,12 +2764,12 @@
       } ]
     },
     "Sertanejo 2019" : {
-      "color" : "36A7B2",
+      "color" : "C9584D",
       "id" : 14,
-      "inApp" : "Serntanejo2019",
+      "inApp" : "sertanejo2019",
       "name" : "Sertanejo 2019",
       "public" : false,
-      "token" : ,
+      "token" : 1493132040,
       "words" : [ {
         "name" : "Cem Mil"
       }, {
